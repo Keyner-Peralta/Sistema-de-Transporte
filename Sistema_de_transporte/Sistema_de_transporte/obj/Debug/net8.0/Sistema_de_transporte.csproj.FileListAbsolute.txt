@@ -1,0 +1,14 @@
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\bin\Debug\net8.0\Sistema_de_transporte.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\bin\Debug\net8.0\Sistema_de_transporte.deps.json
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\bin\Debug\net8.0\Sistema_de_transporte.runtimeconfig.json
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\bin\Debug\net8.0\Sistema_de_transporte.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\bin\Debug\net8.0\Sistema_de_transporte.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.AssemblyInfoInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.AssemblyInfo.cs
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.csproj.CoreCompileInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\refint\Sistema_de_transporte.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\Sistema_de_transporte.genruntimeconfig.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_transporte\Sistema_de_transporte\obj\Debug\net8.0\ref\Sistema_de_transporte.dll
